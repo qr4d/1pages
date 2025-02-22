@@ -11,7 +11,7 @@ export default function Footer() {
               关于
             </h3>
             <p className="mt-4 text-base text-gray-600 dark:text-gray-300">
-              本站是一个新博客。
+              分享音乐、投资、AI等领域的个人心得与思考，期待与你交流，共同进步。
             </p>
           </div>
 
